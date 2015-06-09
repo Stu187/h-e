@@ -1,0 +1,36 @@
+<?php
+global $default_settings_trio;
+$default_settings_trio=array(
+	'bg_color'=>'#000000', 
+	'height'=>'400',
+	'width'=>'1000',
+	'lswidth'=>'50',
+	'border'=>'1',
+	'brcolor'=>'#000000',
+	'ptitle_font'=>'sans-serif',
+	'ptitle_fontg'=>'Oswald',
+	'ptitle_fsize'=>'40',
+	'ptitle_fstyle'=>'normal',
+	'ptitle_fcolor'=>'#ffffff',
+	'sub_ptitle_font'=>'sans-serif',
+	'sub_ptitle_fontg'=>'Oswald',
+	'sub_ptitle_fsize'=>'20',
+	'sub_ptitle_fstyle'=>'normal',
+	'sub_ptitle_fcolor'=>'#ffffff',
+	'content_font'=>'Arial,Helvetica,sans-serif',
+	'content_fontg'=>'',
+	'content_fsize'=>'12',
+	'content_fstyle'=>'normal',
+	'content_fcolor'=>'#ffffff',
+	'meta_title_font' => 'Verdana,Geneva,sans-serif',
+	'meta_title_fontg' => '',
+	'meta_title_fcolor' => '#a8a8a8',
+	'meta_title_fsize' => '12',
+	'meta_title_fstyle' => 'normal',
+	'stylesheet'=>'trio',
+	'trio_block'=>'2',
+	'buttons'=>'default',
+	'nav_w'=>'64',
+	'nav_h'=>'64'
+);
+?>

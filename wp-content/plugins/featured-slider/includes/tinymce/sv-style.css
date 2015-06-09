@@ -1,0 +1,116 @@
+.sv-qt-body {
+	width:100%;
+	min-height:95%;
+	background: #ffffff;
+	padding-bottom: 20px;
+}
+.sv-qt-content {
+	padding: 20px;
+}
+.sv-select-slider {
+	font-family:'Century Gothic', 'Avant Garde', 'Trebuchet MS', sans-serif;
+	font-size:10px;
+}
+.sv-qt-title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: 600;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: #555;
+}
+.sv-created-slider {
+	min-width: 150px;
+	width: auto;
+	text-align: center;
+	margin: 15px 15px 15px 0;
+	float: left;
+}
+.sv-created-slideri {
+	min-width: 150px;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 5px;
+	margin-bottom: 5px;
+	color: #fff;
+	background: #52B3D9;
+	border: 0;
+	cursor: pointer;
+}
+.sv-slideri-title {
+	font-size: 11px;
+	color: #444444;
+	font-weight: 600;
+	display: block;
+}
+.styled-select {
+	width: 180px;
+	height: 22px;
+	overflow: hidden;
+	background: url(sel-arrow.png) no-repeat right #ffffff;
+	background-size: 20px 22px;
+	border: 1px solid #aaaaaa;
+	-webkit-appearance: none;
+}
+.styled-select select {
+	background: transparent;
+	width: 180px;
+	font-size: 12px;
+	line-height: 1;
+	border: 0;
+	border-radius: 0;
+	height: 22px;
+	-webkit-appearance: none;
+}
+.sv-build-slider {
+	width: 70%;
+}
+.sv-slider-error {
+	color: #dd0000;
+	font-size: 12px;
+	font-weight: bold;
+	display:none;
+}
+.sv-slider-error a{
+	text-decoration: none;
+}
+.sv-slider-error a:hover{
+	text-decoration: underline;
+}
+.form-table.sv-build-slider td {
+	/*width: 50%;*/
+	font-size: 12px;
+	font-weight: normal;
+	padding: 5px 10px;
+}
+.form-table.sv-build-slider input {
+	font-size: 14px;
+	padding: 3px 5px;
+	line-height: 15px;
+}
+.form-table.sv-build-slider .featured-multiselect {
+	font-size: 12px;
+	line-height: 1;
+}
+.form-table,.form-table td {
+	font-family:'Century Gothic', 'Avant Garde', 'Trebuchet MS', sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	vertical-align: middle;
+}
+.form-table tr{/*background:#ddd;*/}
+.sv-qt-content .button-primary, .sv-qt-content #insert{
+	background: #52B3D9;
+	border-radius: 3px;
+	background-color: #52B3D9;
+	color: white !important;
+	border: 0;
+	box-shadow: none;
+	font-size: 14px;
+	text-shadow: none;
+	padding: 5px 10px;
+	height: auto;
+	margin-top: 10px;
+	float: none;
+}
+.select_slider {text-transform: capitalize;}
